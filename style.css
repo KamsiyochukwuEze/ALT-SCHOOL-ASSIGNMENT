@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    background-color: teal;
+    color: white;
+}
+
+h1{
+    margin: 50px;
+    font-size: 50px;
+}
+
+h2{
+margin: 50px;
+color: pink;
+}
+
+h3{
+    margin: 50px;
+}
+
+a{
+background-color: pink;
+color: grey;
+    
+}
+
+a:hover{
+    color: teal;
+}
+
+button{
+    height: 50px;
+    margin: 30px;
+    width: 200px;
+    border: 1px solid grey;
+    background-color:pink ;
+}
