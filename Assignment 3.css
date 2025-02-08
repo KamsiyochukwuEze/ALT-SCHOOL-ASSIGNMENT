@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #202020; 
+    font-family: baskerville;
+    
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px;
+}
+
+.heading{
+    background-color:#ff0095 ;
+    width: 320px;
+    height: 50px;
+    text-align: center;
+    border-radius: 3px;
+    position: relative;
+    top: 40px;
+}
+
+h2{
+    align-content: center;
+}
+
+
+.text{
+    background-color: #fff;
+    max-width: 400px;
+    color: #3b3b3b;
+    border-radius: 5px;
+    
+
+
+}
+
+p{
+    padding: 20px;
+    height: 200px;
+    align-content: center;
+}
+
+

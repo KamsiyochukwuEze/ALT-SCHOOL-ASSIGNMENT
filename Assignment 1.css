@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: #022d36;
+    color: white;
+}
+
+#top{
+    Margin: 20px;
+    text-align: center;
+}
+
+h2{
+    Margin: 20px;
+    text-align: center;
+    color: #63c5da;
+}
+
+.details{
+    margin: 20px;
+
+}
+
+h3{
+    padding-bottom: 20px;
+}
+
+.body{
+    margin: 20px;
+    text-align: center;
+}
+
+ol{
+    margin: 20px;
+    padding-left: 20px;
+}
+
+li{
+    padding-bottom: 10px;
+    
+}
+
+a{
+    color: #63c5da;
+}

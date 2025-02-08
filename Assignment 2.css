@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #022d36;
+    color: #fff;
+}
+
+table, th, td{
+    border: 1px solid;
+    text-align: center;
+}
+
+table{
+    width: 80%;
+    border-collapse: collapse;
+    height: 400px;
+    align-content: center;
+    background-color: #63c5da;
+    color: black;
+}
+
+h2, caption, h1{
+    color: #63c5da;
+    text-align: center;
+    margin: 30px;
+}
+
+tr{
+    height: 50px;
+}
+
+caption{
+    text-transform: uppercase;
+}
+
+a{
+    background-color: #fff;
+    color: #000;
+}
+
+img{
+    max-width: 500px;
+}
+
+.title{
+    color: white;
+}
+
+.me{
+    width: 300px;
+}
+
+.mp4{
+    max-width: 700px;
+    margin: 40px;
+    align-content: center;
+    
+}
+
+
+
